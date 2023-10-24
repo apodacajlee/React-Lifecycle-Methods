@@ -31,7 +31,7 @@ class App extends Component {
               this.setState({text: event.target.value})
             }
           />
-          <button type = "submit">Add</button>
+          <button type = "submit">AAAAAA</button>
         </form>
         <ul>
           {this.state.list.map((item, idx) => {
